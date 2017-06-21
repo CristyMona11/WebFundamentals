@@ -1,0 +1,198 @@
+#wrapper{
+        background-color:#1B4F78;
+        width: 970px;
+        height:800px;
+        }
+#textsize{
+          text-align: right;
+          width: 970px;
+          color: white;
+          font-family: "Helvetica";
+          font-size: 14px;
+          margin-top:-130px;
+          font-weight: lighter;
+          }
+span{
+      color:#D8D123;
+    }
+#o    {
+        color: black;
+      }
+#grey{
+      display:inline-block;
+      background-color: #444444;
+      height: 65px;
+      width: 270px;
+      border-radius: 8px;
+      margin-left: 750px;
+      margin-right: 25px;
+      margin-bottom: 30px;
+      box-shadow: 1px 2px 1px #202423;
+    }
+#search{
+        display:inline-block;
+        background-color: white;
+        color:silver;
+        box-shadow: 2px 2px 2px #202423;
+        width: 150px;
+        height: 30px;
+        margin-left: 30px;
+        margin-bottom:10px;
+        margin-right: 20px;
+        text-align: center;
+        border:2px solid silver;
+        }
+#gobox{
+        display:inline-block;
+        background-color: #1B4F78;
+        color:white;
+        box-shadow: 2px 2px 2px #202423;
+        width: 40px;
+        height: 30px;
+        margin-bottom:100px;
+        border-radius: 8px;
+        border-color: white 2px;
+        text-align: center;
+        border:2px solid white;
+        }
+#toolbar{
+          background: linear-gradient(#3378AF,#3C7DAF,#3378AF);
+          height: 50px;
+          width: 930px;
+          border-radius: 9px;
+          box-shadow: 2px 2px 2px #202423;
+          display:block;
+          margin-left: 75px;
+        }
+.tab{
+          display:inline-block;
+          color: white;
+          font-family: "Helvetica";
+          font-size: 18px;
+          font-weight: lighter;
+          margin-left: 35px;
+          margin-right: 35px;
+          }
+.col{
+      color:white;
+      text-align: center;
+      margin-bottom: -150;
+      font-size: 16px;
+      font-family: "Helvetica";
+      font-weight: lighter;
+      margin-left: 45px;
+      height: 12px;
+      margin-top: 5px;
+      }
+#options{
+        background-color:#1B4F78;
+        display:inline-block;
+        width: 230px;
+        height: 190px;
+        text-align: center;
+        margin-top: 5px;
+        margin: 10px;
+        }
+#middle{
+        background-color:#1B4F78;
+        display: inline-block;
+        height: 120px;
+        width: 650px;
+        margin-left: 60px;
+        margin-top: 10px;
+        }
+#explain{
+        color:white;
+        font-size: 15px;
+        font-family: "Helvetica";
+        font-weight: lighter;
+        display: block;
+        background-color:#1B4F78;
+        text-align: center;
+        }
+.better{
+        color: #D8D123;
+        margin-left: 175px;
+        font-family: "Helvetica";
+        font-weight: lighter;
+        display: block;
+        font-style: italic;
+        font-size: 18px;
+        margin
+      }
+#zen{
+      color:white;
+      margin-left: 179px;
+      font-family: "Helvetica";
+      font-weight: lighter;
+      display: block;
+      font-size: 18px;
+    }
+#white{
+      background-color:white;
+      display:inline-block;
+      height:270px;
+      width: 1000px;
+      margin-bottom: 50px;
+      margin-top: 20px;
+      }
+
+.sub{
+      display: inline-block;
+      font-family: "Helvetica";
+      font-weight: lighter;
+      width: 350px;
+      height:60px;
+      text-align: center;
+      margin-left: 100px;
+      vertical-align: top;
+      margin-top: 5px;
+      }
+#blue{
+      color:#3378AF;
+      display: inline-block;
+      font-family: "Helvetica";
+      font-weight: lighter;
+      }
+.color{
+      color:#3378AF;
+      display: inline-block;
+      width: 350px;
+      height:40px;
+      text-align: center;
+      }
+.para{
+      display: inline-block;
+      font-family: "Helvetica";
+      font-weight: lighter;
+      width: 350px;
+      height:40px;
+      text-align: center;
+      margin-top:-5px;
+      }
+h1{
+    border-top: 9px solid #6AA6D7;
+    display: inline-block;
+    font-size: 19px;
+    font-family: "Helvetica";
+    font-weight: normal;
+    text-align: center;
+    }
+
+footer{
+      background-color:#1B4F78;
+      width: 100%;
+      color: #6AA6D7;
+      bottom: 0;
+      font-family: "Helvetica";
+      font-weight: lighter;
+      text-align: center;
+      display: inline-block;
+      margin-bottom: 10px;
+      }
+
+.foot{
+      display:inline-block;
+      margin-left: 50px;
+      margin-right: 50px;
+}
