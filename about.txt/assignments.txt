@@ -1,0 +1,459 @@
+Cristinas-MacBook-Air:~ cristinamonarrez$ ls -R
+Applications	Dropbox		Music		commands.txt	index_2.html
+Desktop		Google Drive	Pictures	cristina
+Documents	Library		Public		dir
+Downloads	Movies		Test		index.html
+
+./Applications:
+Chrome Apps.localized
+
+./Applications/Chrome Apps.localized:
+Default apdfllckaahabafndbhieahigkjlhalf.app
+Default blpcfgokakmgnkcojhhkbfbldkacnbeo.app
+Default coobgpohoikkiipiblmjeljniedjpjpf.app
+Default pjkljhegncpnkpknbcohdijeoejaedia.app
+Icon?
+
+./Applications/Chrome Apps.localized/Default apdfllckaahabafndbhieahigkjlhalf.app:
+Contents
+
+./Applications/Chrome Apps.localized/Default apdfllckaahabafndbhieahigkjlhalf.app/Contents:
+Info.plist	MacOS		PkgInfo		Resources
+
+./Applications/Chrome Apps.localized/Default apdfllckaahabafndbhieahigkjlhalf.app/Contents/MacOS:
+app_mode_loader
+
+./Applications/Chrome Apps.localized/Default apdfllckaahabafndbhieahigkjlhalf.app/Contents/Resources:
+app.icns	en.lproj
+
+./Applications/Chrome Apps.localized/Default apdfllckaahabafndbhieahigkjlhalf.app/Contents/Resources/en.lproj:
+InfoPlist.strings
+
+./Applications/Chrome Apps.localized/Default blpcfgokakmgnkcojhhkbfbldkacnbeo.app:
+Contents
+
+./Applications/Chrome Apps.localized/Default blpcfgokakmgnkcojhhkbfbldkacnbeo.app/Contents:
+Info.plist	MacOS		PkgInfo		Resources
+
+./Applications/Chrome Apps.localized/Default blpcfgokakmgnkcojhhkbfbldkacnbeo.app/Contents/MacOS:
+app_mode_loader
+
+./Applications/Chrome Apps.localized/Default blpcfgokakmgnkcojhhkbfbldkacnbeo.app/Contents/Resources:
+app.icns	en.lproj
+
+./Applications/Chrome Apps.localized/Default blpcfgokakmgnkcojhhkbfbldkacnbeo.app/Contents/Resources/en.lproj:
+InfoPlist.strings
+
+./Applications/Chrome Apps.localized/Default coobgpohoikkiipiblmjeljniedjpjpf.app:
+Contents
+
+./Applications/Chrome Apps.localized/Default coobgpohoikkiipiblmjeljniedjpjpf.app/Contents:
+Info.plist	MacOS		PkgInfo		Resources
+
+./Applications/Chrome Apps.localized/Default coobgpohoikkiipiblmjeljniedjpjpf.app/Contents/MacOS:
+app_mode_loader
+
+./Applications/Chrome Apps.localized/Default coobgpohoikkiipiblmjeljniedjpjpf.app/Contents/Resources:
+app.icns	en.lproj
+
+./Applications/Chrome Apps.localized/Default coobgpohoikkiipiblmjeljniedjpjpf.app/Contents/Resources/en.lproj:
+InfoPlist.strings
+
+./Applications/Chrome Apps.localized/Default pjkljhegncpnkpknbcohdijeoejaedia.app:
+Contents
+
+./Applications/Chrome Apps.localized/Default pjkljhegncpnkpknbcohdijeoejaedia.app/Contents:
+Info.plist	MacOS		PkgInfo		Resources
+
+./Applications/Chrome Apps.localized/Default pjkljhegncpnkpknbcohdijeoejaedia.app/Contents/MacOS:
+app_mode_loader
+
+./Applications/Chrome Apps.localized/Default pjkljhegncpnkpknbcohdijeoejaedia.app/Contents/Resources:
+app.icns	en.lproj
+
+./Applications/Chrome Apps.localized/Default pjkljhegncpnkpknbcohdijeoejaedia.app/Contents/Resources/en.lproj:
+InfoPlist.strings
+
+./Desktop:
+Consulting Exam		Dojo Assignments	Test Project
+Consulting Exam.zip	Dropbox			Test Project.zip
+Cristina Resume UD.pdf	Europe .pdf
+
+./Desktop/Consulting Exam:
+Consulting.css	Consulting.html	building.png	icon.png	main_img.png
+
+./Desktop/Dojo Assignments:
+Jayne Doe	Python		Ruby		iOs
+MEAN		Python Project	WebFundamentals	netCore
+
+./Desktop/Dojo Assignments/Jayne Doe:
+Portfolio_images (1)
+
+./Desktop/Dojo Assignments/Jayne Doe/Portfolio_images (1):
+CSS.png				expressjs.png
+Commands.txt			familycontacts.png
+HTML.png			fiveEleven.png
+Internet.css			github.png
+JavaScript.png			iOS-Swift.png
+Jayne-Doe_F			jQuery.png
+Jayne-Doe_F 2			lamode.png
+Jayne-Doe_F.zip			linkedin.png
+LAMP.png			materialize.png
+MEAN.png			mongodb.png
+RUBY.png			mysql.png
+ajax.png			nodejs.png
+angular.png			photo_of_me.jpg
+bootstrap.png			php.png
+c-sharp.png			portfolio_assignment.png
+codeigniter.png			python.png
+codepen.png			socket.png
+d3.png				sqlite.png
+django.png			twitter.png
+
+./Desktop/Dojo Assignments/Jayne Doe/Portfolio_images (1)/Jayne-Doe_F:
+Jayne_Doe.css	Jayne_Doe.html
+
+./Desktop/Dojo Assignments/Jayne Doe/Portfolio_images (1)/Jayne-Doe_F 2:
+Jayne_Doe.css	Jayne_Doe.html
+
+./Desktop/Dojo Assignments/MEAN:
+about.txt
+
+./Desktop/Dojo Assignments/MEAN/about.txt:
+
+./Desktop/Dojo Assignments/Python:
+about.txt
+
+./Desktop/Dojo Assignments/Python/about.txt:
+
+./Desktop/Dojo Assignments/Python Project:
+Python Project.zip	Python.html
+Python.css		python_(1).png
+
+./Desktop/Dojo Assignments/Ruby:
+about.txt
+
+./Desktop/Dojo Assignments/Ruby/about.txt:
+
+./Desktop/Dojo Assignments/WebFundamentals:
+CSS		Git		HTML		Javascript	about.txt
+
+./Desktop/Dojo Assignments/WebFundamentals/CSS:
+Jave_Basics		Position Practice	Position Practice.zip
+Jave_Basics.zip		Position Practice 2	about.txt
+
+./Desktop/Dojo Assignments/WebFundamentals/CSS/Jave_Basics:
+Java_basics.html	Jave_basics.css
+
+./Desktop/Dojo Assignments/WebFundamentals/CSS/Position Practice:
+Position_practice.css	Position_practice.html
+
+./Desktop/Dojo Assignments/WebFundamentals/CSS/Position Practice 2:
+Position_practice.css	Position_practice.html
+
+./Desktop/Dojo Assignments/WebFundamentals/CSS/about.txt:
+
+./Desktop/Dojo Assignments/WebFundamentals/Git:
+about.txt
+
+./Desktop/Dojo Assignments/WebFundamentals/Git/about.txt:
+
+./Desktop/Dojo Assignments/WebFundamentals/HTML:
+Block_HTML			IndentationPractice.HTML
+Block_HTML.html			IndentationPractice2.HTML
+Block_HTML.html.zip		RegistrationForm.HTML
+FakeBlog.HTML			about.txt
+
+./Desktop/Dojo Assignments/WebFundamentals/HTML/about.txt:
+
+./Desktop/Dojo Assignments/WebFundamentals/Javascript:
+about.txt
+
+./Desktop/Dojo Assignments/WebFundamentals/Javascript/about.txt:
+
+./Desktop/Dojo Assignments/WebFundamentals/about.txt:
+
+./Desktop/Dojo Assignments/iOs:
+about.txt
+
+./Desktop/Dojo Assignments/iOs/about.txt:
+
+./Desktop/Dojo Assignments/netCore:
+about.txt
+
+./Desktop/Dojo Assignments/netCore/about.txt:
+
+./Desktop/Test Project:
+Internet.css		client_server.jpg	html.png
+Internet.html		globe.png		ninja.png
+ad_background.png	home.png		phone.png
+
+./Documents:
+Blocks_CSS		MAMP PRO
+Internet.html		MacKeeper Backups
+
+./Documents/MAMP PRO:
+assets
+
+./Documents/MAMP PRO/assets:
+
+./Documents/MacKeeper Backups:
+
+./Downloads:
+11 page paper.docx
+AdobeReader_dc_en_a_install.dmg
+Atom.app
+Cristina Monarrez Resume!
+Cristina Monarrez Resume! (1)
+Cristina Resume UD (1).pdf
+Cristina Resume UD.pdf
+Cristina.Monarrez.Resume.doc
+DropboxInstaller.dmg
+English essay for cristy (1).wps
+English essay for cristy.wps
+MAMP_MAMP_PRO_4.1.1.pkg
+MPlayerX.dmg
+MyDISHBill_09-15-16 (1).pdf
+MyDISHBill_09-15-16.pdf
+North Park University Transcript 1.jpg
+PP Stress Presentation2[1].pptx
+Portfolio_images
+Resume Updated
+Skype_7.36.217.dmg
+Spring Scholarship (1).docx
+Spring Scholarship.docx
+VSCode-darwin-stable (1).zip
+VSCode-darwin-stable (2).zip
+VSCode-darwin-stable.zip
+Visual Studio Code 2.app
+Visual Studio Code 3.app
+Visual Studio Code.app
+Xcode_8.3_beta_2.xip
+adobe_flashplayer_e2c7b.dmg
+adobe_flashplayer_e2c7b_Setup (1).dmg
+adobe_flashplayer_e2c7b_Setup (2).dmg
+adobe_flashplayer_e2c7b_Setup.dmg
+atom-mac.zip
+consulting
+consulting 2
+consulting 3
+consulting.zip
+f-james.png
+git-2.10.1-intel-universal-mavericks (1).dmg
+git-2.10.1-intel-universal-mavericks.dmg
+git-2.7.1-intel-universal-mavericks (1).dmg
+git-2.7.1-intel-universal-mavericks.dmg
+googlechrome.dmg
+images
+images 2
+installgoogledrive.dmg
+jsloups (1).png
+jsloups (2).png
+jsloups.png
+mysql-workbench-community-6.3.9-osx-x86_64.dmg
+node-v6.9.5.pkg
+python-BSD.png
+python.png
+www-images (1).zip
+www-images (2).zip
+www-images (3).zip
+www-images.zip
+
+./Downloads/Atom.app:
+Contents
+
+./Downloads/Atom.app/Contents:
+Frameworks	MacOS		Resources
+Info.plist	PkgInfo		_CodeSignature
+
+./Downloads/Atom.app/Contents/Frameworks:
+Atom Helper EH.app		Mantle.framework
+Atom Helper NP.app		ReactiveCocoa.framework
+Atom Helper.app			Squirrel.framework
+Electron Framework.framework
+
+./Downloads/Atom.app/Contents/Frameworks/Atom Helper EH.app:
+Contents
+
+./Downloads/Atom.app/Contents/Frameworks/Atom Helper EH.app/Contents:
+Info.plist	MacOS		PkgInfo		_CodeSignature
+
+./Downloads/Atom.app/Contents/Frameworks/Atom Helper EH.app/Contents/MacOS:
+Atom Helper EH
+
+./Downloads/Atom.app/Contents/Frameworks/Atom Helper EH.app/Contents/_CodeSignature:
+CodeResources
+
+./Downloads/Atom.app/Contents/Frameworks/Atom Helper NP.app:
+Contents
+
+./Downloads/Atom.app/Contents/Frameworks/Atom Helper NP.app/Contents:
+Info.plist	MacOS		PkgInfo		_CodeSignature
+
+./Downloads/Atom.app/Contents/Frameworks/Atom Helper NP.app/Contents/MacOS:
+Atom Helper NP
+
+./Downloads/Atom.app/Contents/Frameworks/Atom Helper NP.app/Contents/_CodeSignature:
+CodeResources
+
+./Downloads/Atom.app/Contents/Frameworks/Atom Helper.app:
+Contents
+
+./Downloads/Atom.app/Contents/Frameworks/Atom Helper.app/Contents:
+Info.plist	MacOS		PkgInfo		_CodeSignature
+
+./Downloads/Atom.app/Contents/Frameworks/Atom Helper.app/Contents/MacOS:
+Atom Helper
+
+./Downloads/Atom.app/Contents/Frameworks/Atom Helper.app/Contents/_CodeSignature:
+CodeResources
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework:
+Electron Framework	Resources
+Libraries		Versions
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions:
+A	Current
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A:
+Electron Framework	Resources
+Libraries		_CodeSignature
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries:
+libffmpeg.dylib	libnode.dylib
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources:
+Info.plist		fil.lproj		nl.lproj
+MainMenu.nib		fr.lproj		pl.lproj
+am.lproj		gu.lproj		pt_BR.lproj
+ar.lproj		he.lproj		pt_PT.lproj
+bg.lproj		hi.lproj		ro.lproj
+bn.lproj		hr.lproj		ru.lproj
+ca.lproj		hu.lproj		sk.lproj
+content_shell.pak	icudtl.dat		sl.lproj
+crashpad_handler	id.lproj		snapshot_blob.bin
+cs.lproj		it.lproj		sr.lproj
+da.lproj		ja.lproj		sv.lproj
+de.lproj		kn.lproj		sw.lproj
+el.lproj		ko.lproj		ta.lproj
+en.lproj		lt.lproj		te.lproj
+en_GB.lproj		lv.lproj		th.lproj
+es.lproj		ml.lproj		tr.lproj
+es_419.lproj		mr.lproj		uk.lproj
+et.lproj		ms.lproj		vi.lproj
+fa.lproj		natives_blob.bin	zh_CN.lproj
+fi.lproj		nb.lproj		zh_TW.lproj
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/am.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ar.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bg.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bn.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ca.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/cs.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/da.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/de.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/el.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/en.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/en_GB.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es_419.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/et.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fa.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fi.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fil.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fr.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/gu.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/he.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hi.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hr.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hu.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/id.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/it.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ja.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/kn.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ko.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lt.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lv.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ml.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/mr.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ms.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nb.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nl.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pl.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_BR.lproj:
+locale.pak
+
+./Downloads/Atom.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_PT.lproj:
+locale.pak

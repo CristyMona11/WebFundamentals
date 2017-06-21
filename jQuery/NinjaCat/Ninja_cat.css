@@ -1,0 +1,43 @@
+body{
+  background-color: orange;
+}
+
+img{
+  margin-bottom: -15px;
+}
+
+
+#ninja0{
+      position:absolute;
+      top: 8px;
+      left: 8px;
+      z-index: 2;
+}
+
+#ninja1{
+      position:absolute;
+      top: 73px;
+      left: 8px;
+      z-index: 2;
+}
+
+#ninja2{
+      position:absolute;
+      top: 138px;
+      left: 8px;
+      z-index: 2;
+}
+
+#ninja3{
+      position:absolute;
+      top: 203px;
+      left: 8px;
+      z-index: 2;
+}
+
+#ninja4{
+      position:absolute;
+      top: 268px;
+      left: 8px;
+      z-index: 2;
+    }

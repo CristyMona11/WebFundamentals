@@ -1,0 +1,17 @@
+Cristinas-MacBook-Air:~ cristinamonarrez$ cd desktop
+Cristinas-MacBook-Air:desktop cristinamonarrez$ cd Dojo_Assignments
+Cristinas-MacBook-Air:Dojo_Assignments cristinamonarrez$ git remote add origin https://github.com/CristyMona11/DojoAssignments.git
+fatal: remote origin already exists.
+Cristinas-MacBook-Air:Dojo_Assignments cristinamonarrez$ git push -u origin master
+Username for 'https://github.com': CristyMona11
+Password for 'https://CristyMona11@github.com':
+Counting objects: 81, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (77/77), done.
+Writing objects: 100% (81/81), 1.46 MiB | 728.00 KiB/s, done.
+Total 81 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), done.
+To https://github.com/CristyMona11/DojoAssignments.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+Cristinas-MacBook-Air:Dojo_Assignments cristinamonarrez$ cd Dojo_Assignments

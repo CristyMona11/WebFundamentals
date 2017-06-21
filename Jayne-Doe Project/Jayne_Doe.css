@@ -1,0 +1,190 @@
+#wrapper{
+        display:block;
+        background-color: #FAFAFA;
+        padding-bottom: -400px;
+        }
+#girl{
+    border:5px solid white;
+    margin-left: 13px;
+    margin-top: 0px;
+        }
+img{
+    margin-top: -20px;
+    margin-bottom: -15px;
+}
+span{
+      font-size: 16px;
+      text-align: "right";
+        }
+#gradient{
+          background: radial-gradient(#6F5964,#200F14);
+          height: 850px;
+          width: 1000px;
+          padding: 10px;
+          margin-right: 20px;
+          margin-bottom: 80px;
+
+          }
+#line{
+        font-family:"Comic Sans MS", "Comic Sans", cursive;
+        font-size: 30px;
+        display:inline-block;
+        background-color: #F6F6F6;
+        padding-bottom: 1px;
+        font-weight:bold;
+        margin-top: 15px;
+        }
+#quote{
+        padding-left: 700px;
+        font-size: 20px;
+        font-family: "Arial", serif;
+        margin-bottom: 20px;
+        font-weight:bold;
+        margin-top: -25px;
+}
+#bio{
+      display:inline-block;
+      height: 240px;
+      width: 470px;
+      background-color: #E4D8E3;
+      font-family: "Arial", serif;
+      padding:10px;
+      color: #200F14;
+      font-size: 15px;
+      margin-right:30px;
+      margin-top: -13px;
+      }
+#about{
+      display:inline-block;
+      height:50px;
+      width:490px;
+      margin-left: 30px;
+      background: linear-gradient(#E4D8E3,#92909C,#E4D8E3);
+      vertical-align: top;
+      font-family: "Arial", serif;
+      font-size: 20px;
+      color: white;
+      font-weight: bold;
+      margin-bottom: -10px;
+      }
+  .subheadings{
+                height:35px;
+                width:300px;
+                background: linear-gradient(#E4D8E3,#92909C,#E4D8E3);
+                display:inline-block;
+                font-size: 20px;
+                font-family: "Arial", serif;
+                color:white;
+                vertical-align: top;
+                margin: 15px;
+                margin-top: 20px;
+                padding-bottom: 10px;
+              }
+  .subdetail{
+            display:inline-block;
+            background-color: #E1D5E1;
+            height: 150px;
+            width: 300px;
+            font-family: "Arial", serif;
+            color: black;
+            font-size: 12px;
+            margin-bottom: 20px:
+            }
+  .extrasub{
+            display:block;
+            height:40px;
+            width:300px;
+            background: linear-gradient(#E4D8E3,#92909C,#E4D8E3);
+            font-size: 18px;
+            font-family: "Arial", serif;
+            color:white;
+            }
+  .stickers{
+            display:block;
+            height:150px;
+            width:295px;
+            background-color: #E1D5E1;
+            padding-left: 5px;
+            }
+  .stickers2{
+            margin-top: -100px;
+            padding-left: 5px;
+            }
+    #family{
+            padding-bottom: 15px;
+            }
+    #lamode{
+            padding-bottom: 30px;
+            }
+    #labutton{
+              background-color: #407D61;
+              color: white;
+              border-radius: 5px;
+              border: 2px solid black;
+              display: inline-block;
+              height:38px;
+              margin-left: 70px;
+              margin-top: 17px;
+              padding-right: 5px;
+              padding-left: 5px;
+              padding-bottom: -15px;
+              box-shadow: 5px 5px 5px #888888;
+    }
+
+    #fambutton{
+              background-color: #407D61;
+              color: white;
+              border-radius: 5px;
+              border: 2px solid black;
+              display: inline-block;
+              height:38px;
+              margin-left: 70px;
+              margin-top: 17px;
+              padding-right: 5px;
+              padding-left: 5px;
+              padding-bottom: -15px;
+              box-shadow: 5px 5px 5px #888888;
+    }
+    #fibutton{
+              background-color: #407D61;
+              color: white;
+              border-radius: 5px;
+              border: 2px solid black;
+              display: inline-block;
+              height:38px;
+              margin-left: 70px;
+              margin-top: 17px;
+              padding-right: 5px;
+              padding-left: 5px;
+              padding-bottom: -15px;
+              box-shadow: 5px 5px 5px #888888;
+              }
+    .socmedia{
+              background-color: #F6F6F6;
+              display: inline-block;
+              font-family: "Arial", serif;
+              font-style: italic;
+              font-weight: lighter;
+              margin-left: 0px;
+              margin-right: 10px;
+              vertical-align: top;
+              }
+
+    .foot     {
+              font-family: "Arial", serif;
+              margin-left: 5px;
+              display:inline-block;
+              vertical-align: top;
+              margin-bottom: 50px;
+              font-weight: lighter;
+              }
+    #email{
+            text-align: center;
+            font-family: "Arial", serif;
+            width:970px;
+            margin-top: -75px;
+            }
+  #everything{
+      text-align: center;
+      width: 970px;
+  }

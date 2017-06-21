@@ -1,0 +1,19 @@
+#redbox{
+  display: block;
+  height:400px;
+  width: 230px;
+  position:absolute;
+  border: 20px solid red;
+  margin-left: 800px;
+  vertical-align: top;;
+  margin-top: 20px;
+  word-wrap: break-word;
+  padding-left:100px;
+  padding-top: 50px;
+  padding-right: -40px;
+}
+
+.poke{
+  width: 840px;
+  position: absolute;
+}

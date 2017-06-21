@@ -1,0 +1,8 @@
+mkdir
+touch
+git status
+git log
+git add
+git commit -m ""
+git revert
+ls

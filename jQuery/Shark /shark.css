@@ -1,0 +1,28 @@
+*{
+  padding:0px;
+  margin:0px;
+}
+
+#first{
+  display:inline-block;
+}
+
+body{
+background-color: black;
+}
+
+#second{
+  display:inline-block;
+}
+
+img{
+  width:250px;
+  height:250px;
+  margin:10px;
+}
+button{
+  padding:10px;
+  margin-left: 50%;
+  border-radius: 8px;
+  background-color: teal;
+}

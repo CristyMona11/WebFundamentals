@@ -1,0 +1,196 @@
+
+#container{
+          background-color: #062134;
+          height:950px;
+          width: 940px;
+          display:block;
+          }
+#topblock{
+          display:block;
+          height:80px
+          }
+h1{
+          font-family: Helvetica;
+          color:white;
+          font-weight: lighter;
+          display:inline-block;
+          margin-left: 15px;
+          margin-right: 15px;
+          }
+h1 p{
+          display:inline;
+          font-size: inherit; 
+          }
+span{
+          color:#1B99E8;
+          display:none;
+          }
+.tabs{
+          font-size: 15px;
+          font-family: Helvetica;
+          color:white;
+          font-weight: lighter;
+          margin: 30px;
+          display:inline-block;
+          }
+#rest{
+          background-color: white;
+          display:block;
+          height: 840px;
+          width: 870px;
+          margin-left: 20px;
+          padding-left: 10px;
+          }
+#snow{
+          margin:18px;
+          margin-left:10px;
+          }
+
+.middle{
+        display:inline-block;
+        height:180px;
+        width:268px;
+        background-color: #1468A8;
+        color:#FFFFFF;
+        margin-right:5px;
+        margin-left: 8px;
+        }
+h2{
+  font-family: Helvetica;
+  color:white;
+  font-weight: lighter;
+  text-align: left;
+  margin-left: 10px;
+  margin-top: 5px;
+  }
+.desc{
+      font-family: Helvetica;
+      color:white;
+      font-weight: lighter;
+      text-align: left;
+      margin-left: 10px;
+      margin-top: -10px;
+      font-size: 12px;
+      }
+  .button{
+      background-color:#1991DD;
+      font-family: Helvetica;
+      color:white;
+      font-weight: normal;
+      text-align: center;
+      font-size: 12px;
+      border-radius: 3px;
+      display: inline-block;
+      padding:10px;
+      margin-left: 30px;
+      width: 100px;
+    }
+
+    .final{
+            display:inline-block;
+            height:200px;
+            width:250px;
+            margin-right:10px;
+            margin-left: 15px;
+            vertical-align:text-top;
+          }
+  #clouds{
+    display:none;
+  }
+  h3{
+        display:inline-block;
+        font-family: Helvetica;
+        color:black;
+        font-weight:normal;
+        font-size: 18px;
+        }
+blockquote{
+        display:inline-block;
+        font-family: Helvetica;
+        color:black;
+        font-weight:normal;
+        font-size: 13px;
+        font-style: italic;
+        background-color: #DAEDFF;
+        height: 75px;
+        width: 250px;
+        text-align: center;
+        margin-left: 0px;
+        margin-top: 0px;
+        padding-top:40px;
+      }
+  .lmid{
+        display:inline-block;
+        font-family: Helvetica;
+        color:black;
+        font-weight:lighter;
+        font-size: 10px;
+        height: 60px;
+        margin-bottom:-50px;
+        }
+#lmidt{
+        display:inline-block;
+        font-family: Helvetica;
+        color:black;
+        font-weight:lighter;
+        font-size: 10px;
+        margin-top:60px;
+        margin-bottom: -30px;
+        }
+a{
+  color: #749CB9;
+  margin-bottom: -500px;
+  }
+#sam{
+      display:inline-block;
+      font-family: Helvetica;
+      color:black;
+      font-weight:lighter;
+      font-size: 10px;
+      margin-bottom: -10px;
+    }
+#butt{
+      display: block;
+      background-color: #DAEDFF;
+      height: 45px;
+      width: 870px;
+      margin-left: 20px;
+      padding-left: 10px;
+      margin-top: 2px;
+      text-align: center;
+      margin-bottom: 5px;
+      }
+.last{
+      display:inline-block;
+      text-align: center;
+      font-family: Helvetica;
+      color:#1468A8;
+      font-weight:lighter;
+      font-size: 10px;
+      margin:20px;
+      }
+  #homey{
+          color: #749CB9;
+  }
+  #submit {
+ color: white;
+ font-size: 11px;
+ text-align: center;
+ width: 90px;
+ height: 30px;
+ border-radius: 3px;
+ margin-left: 40px;
+ padding: 0px;
+ background:#1991DD;
+}
+
+p {
+   margin: 8px;
+   font-size: 16px;
+ }
+ .selected {
+   color: white;
+ }
+ .highlight {
+   background: green;
+ }

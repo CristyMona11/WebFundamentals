@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>BlockCSS</title>
+    <style>
+      #container { background-color: Gray; width: 500px; height: 550px; }
+      .row1 {
+              display:inline-block;
+              background-color: Red;
+              width: 200px; height: 100px;
+              margin-bottom: 10px;
+            }
+      #row1right {
+                  margin-left: 30px;
+        }
+      div {
+            margin: 10px;
+            border: solid 2px;
+          }
+      #row2 {
+              height:100px; width:460px;
+              background-color: Blue;
+              margin-top: 10px;
+              margin-bottom: 10px;
+            }
+      .row3 {
+              height: 100px; width:125px;
+              display:inline-block;
+              background-color: Yellow;
+              margin-left: 19px;
+            }
+      #row4 {
+              display:inline-block;
+              background-color: Green;
+              width: 460px; height: 130px;
+              margin-top: 5px;
+            }
+      .row4 {
+              width: 90px; height: 90px;
+              background-color: Purple;
+              display: inline-block;
+            }
+      #row4right {
+                  margin-left: 235px;
+            }
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <div class="row1" ></div> <div id="row1right" class="row1"></div>
+      <div id="row2"></div>
+      <div class="row3"></div> <div class="row3"></div><div class="row3"></div>
+      <div id= "row4">
+        <div class="row4"></div> <div id="row4right" class="row4"></div>
+      </div>
+    </div>
+  </body>
+</html>
